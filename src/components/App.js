@@ -1,4 +1,7 @@
 import React from "react";
+import Home from "../components/Home";
+import About from "../components/About";
+import NavBar from "../components/NavBar"
 
 function App() {
   return (
@@ -9,5 +12,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
